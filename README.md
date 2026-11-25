@@ -8,7 +8,7 @@ O **trilha.** é uma plataforma de organização acadêmica voltada para estudan
 
 ## Demonstração Online
 
-- **GitHub Pages:** `https://Massaru20.github.io/trabalho-desenvolvimento-de-interfaces/`
+- **GitHub Pages:** `https://Massaru20.github.io/trilha-projeto/`
 
 ---
 
